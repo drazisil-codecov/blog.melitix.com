@@ -9,6 +9,7 @@ paginate: 5
 params:
   author: "Ricardo N Feliciano"
   description: "We write about creating, organizing, and hosting meetups."
+  avatar: "/img/avatar.png"
   social:
     - name: "twitter"
       url: "https://twitter.com/Melitix"

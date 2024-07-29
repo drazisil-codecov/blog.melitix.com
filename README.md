@@ -20,5 +20,5 @@ You'll then be able to view the site in your browser at `http://localhost:1313/`
 
 ## License
 
-The source code for `www.thereserveforce.com` is licensed under the MIT license.
+The source code for `blog.Melitix.com` is licensed under the MIT license.
 This repo's license can be found [here](./LICENSE).
